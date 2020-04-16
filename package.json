@@ -1,0 +1,28 @@
+{
+  "name": "express-jwt-auth0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falcode/express-jwt-auth0.git"
+  },
+  "keywords": [
+    "express",
+    "jwt",
+    "auth0"
+  ],
+  "author": "falcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falcode/express-jwt-auth0/issues"
+  },
+  "homepage": "https://github.com/falcode/express-jwt-auth0#readme"
+}
